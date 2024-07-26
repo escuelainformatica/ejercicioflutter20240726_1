@@ -50,27 +50,27 @@ Ejercicio de Carro de Compras
   - [x] categoriasrv  
     - [x] obtenerCategorias()
     - [x] agregarCategorias()
-  - [ ] productosrv  
-  - [ ] comprasrv  
+  - [x] productosrv  
+  - [x] comprasrv  
 - [x] paginas  
   - [x] CategoriaListarPagina  
   - [x] CategoriaInsertarPagina (formulario)
   - [x] ProductoListarPagina
   - [x] ProductoInsertarPagina (formulario)
-  - [ ] CompraListarPagina
+  - [x] CompraListarPagina
   - [ ] CompraInsertarPagina (formulario)
 
 - [ ] widgets (listado)
   - [x] CategoriaListView
-  - [ ] ProductoListView
+  - [x] ProductoListView
   - [ ] CompraListView
 - [ ] widget (fila)
   - [x] CategoriaFila
-  - [ ] ProductoFila
+  - [x] ProductoFila
   - [ ] CompraFila
 - [ ] widget (formulario)
   - [x] CategoriaInsertarForm
-  - [ ] ProductoInsertarForm
+  - [x] ProductoInsertarForm
   - [ ] CompraInsertarFormul
 
 
