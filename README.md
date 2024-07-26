@@ -41,27 +41,31 @@ Ejercicio de Carro de Compras
 
 [x] Limpiar el proyecto  
 - [x] En main.dart, voy a borrar el widget con estado  
-[x] Luego voy a partir creando los modelos (siempre se parte con los modelos)
+  - [x] Luego voy a partir creando los modelos (siempre se parte con los modelos)
+
 - [x] categoria  
 - [x] producto  
 - [x] compra  
-[x] Voy a crear las clases de servicio  
+  - [x] Voy a crear las clases de servicio  
+
 - [x] categoriasrv  
 - [x] productosrv  
 - [x] comprasrv  
-[ ] paginas  
-- [ ] CategoriaListarPagina  
-- [ ] CategoriaInsertarPagina  
-- [ ] ProductoListarPagina
-- [ ] ProductoInsertarPagina
-- [ ] CompraListarPagina
-- [ ] CompraInsertarPagina
-[ ] widgets
-- [ ] CategoriaListado
-- [ ] ProductoListado
-- [ ] CompraListado
+- [x] paginas  
+  - [ ] CategoriaListarPagina  
+  - [ ] CategoriaInsertarPagina  
+  - [ ] ProductoListarPagina
+  - [ ] ProductoInsertarPagina
+  - [ ] CompraListarPagina
+  - [ ] CompraInsertarPagina
 
-## Creacion de template para clase.
+- [ ] widgets (listado)
+  - [ ] CategoriaListado
+  - [ ] ProductoListado
+  - [ ] CompraListado
+
+
+## Creación de template para clase.
 
 Cree el siguiente template
 ```
