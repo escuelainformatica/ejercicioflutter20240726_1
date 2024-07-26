@@ -65,9 +65,22 @@ Ejercicio de Carro de Compras
   - [ ] CompraListado
 
 
-## Creación de template para clase.
+## Creación de template para clase (opcional)
 
 Cree el siguiente template
+
+En Android Studio, selecciona una carpeta, y con el botón derecho -> new -> Edit File Template
+
+![imagenes/img1.jpg](imagenes/img1.jpg)
+
+
+
+* Indique un nombre
+* En extension indique dart
+* Y pegue el siguiente codigo.
+
+![imagenes/img2.jpg](imagenes/img2.jpg)
+
 ```
 #set( $CamelCaseName = "" )
 #set( $part = "" )
