@@ -1,0 +1,5 @@
+class ProductoSrv {
+  // campos
+  // constructores
+}
+
