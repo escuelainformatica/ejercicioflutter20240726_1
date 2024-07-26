@@ -38,19 +38,20 @@ Ejercicio de Carro de Compras
 * CompraInsertarPagina
 
 # Pasos
-[x] Limpiar el proyecto
-- [x] En main.dart, voy a borrar el widget con estado
+
+[x] Limpiar el proyecto  
+- [x] En main.dart, voy a borrar el widget con estado  
 [x] Luego voy a partir creando los modelos (siempre se parte con los modelos)
-- [x] categoria
-- [x] producto
-- [x] compra
-[x] Voy a crear las clases de servicio
-- [x] categoriasrv
-- [x] productosrv
-- [x] comprasrv
-[ ] paginas
-- [ ] CategoriaListarPagina
-- [ ] CategoriaInsertarPagina
+- [x] categoria  
+- [x] producto  
+- [x] compra  
+[x] Voy a crear las clases de servicio  
+- [x] categoriasrv  
+- [x] productosrv  
+- [x] comprasrv  
+[ ] paginas  
+- [ ] CategoriaListarPagina  
+- [ ] CategoriaInsertarPagina  
 - [ ] ProductoListarPagina
 - [ ] ProductoInsertarPagina
 - [ ] CompraListarPagina
