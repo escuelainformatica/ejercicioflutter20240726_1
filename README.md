@@ -39,7 +39,7 @@ Ejercicio de Carro de Compras
 
 # Pasos
 
-[x] Limpiar el proyecto  
+- [x] Limpiar el proyecto  
 - [x] En main.dart, voy a borrar el widget con estado  
   - [x] Luego voy a partir creando los modelos (siempre se parte con los modelos)
 
