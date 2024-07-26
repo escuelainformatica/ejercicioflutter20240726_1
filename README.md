@@ -46,23 +46,34 @@ Ejercicio de Carro de Compras
 - [x] categoria  
 - [x] producto  
 - [x] compra  
-  - [x] Voy a crear las clases de servicio  
-
-- [x] categoriasrv  
-- [x] productosrv  
-- [x] comprasrv  
+- [x] Clases de servicio
+  - [x] categoriasrv  
+    - [x] obtenerCategorias()
+    - [x] agregarCategorias()
+  - [ ] productosrv  
+  - [ ] comprasrv  
 - [x] paginas  
-  - [ ] CategoriaListarPagina  
-  - [ ] CategoriaInsertarPagina  
-  - [ ] ProductoListarPagina
-  - [ ] ProductoInsertarPagina
+  - [x] CategoriaListarPagina  
+  - [x] CategoriaInsertarPagina (formulario)
+  - [x] ProductoListarPagina
+  - [x] ProductoInsertarPagina (formulario)
   - [ ] CompraListarPagina
-  - [ ] CompraInsertarPagina
+  - [ ] CompraInsertarPagina (formulario)
 
 - [ ] widgets (listado)
-  - [ ] CategoriaListado
-  - [ ] ProductoListado
-  - [ ] CompraListado
+  - [x] CategoriaListView
+  - [ ] ProductoListView
+  - [ ] CompraListView
+- [ ] widget (fila)
+  - [x] CategoriaFila
+  - [ ] ProductoFila
+  - [ ] CompraFila
+- [ ] widget (formulario)
+  - [x] CategoriaInsertarForm
+  - [ ] ProductoInsertarForm
+  - [ ] CompraInsertarFormul
+
+
 
 
 ## Creación de template para clase (opcional)
@@ -93,3 +104,6 @@ class ${CamelCaseName} {
     // constructores    
 }
 ```
+
+Este template luego lo puede ocupar cuando crea un archivo nuevo.
+

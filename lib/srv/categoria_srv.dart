@@ -5,12 +5,13 @@ class CategoriaSrv {
   static List<Categoria> categorias=[];
   // metodos
   static List<Categoria> obtenerCategorias() {
-    List<Categoria> tmp=[Categoria(1,"cat1"),Categoria(2, "cat2")];
-    return tmp;
-    //return categorias;
+    //List<Categoria> tmp=[Categoria(1,"cat1"),Categoria(2, "cat2")];
+    //return tmp;
+    return categorias;
   }
   static void agregarCategoria(Categoria categoria) {
-    categorias.add(categoria);
+    Categoria nueva=Categoria(categoria.id, categoria.nombre); // se crea una nueva categoria antes de agregarla
+    categorias.add(nueva);
   }
 
 }

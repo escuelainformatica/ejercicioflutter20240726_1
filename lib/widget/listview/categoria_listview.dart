@@ -1,7 +1,7 @@
-import 'package:ejercicioflutter20240726_2/widget/categoria_fila.dart';
+import 'package:ejercicioflutter20240726_2/widget/fila/categoria_fila.dart';
 import 'package:flutter/material.dart';
 
-import '../modelo/categoria.dart';
+import '../../modelo/categoria.dart';
 
 class CategoriaListview extends StatefulWidget {
   List<Categoria> categorias;
